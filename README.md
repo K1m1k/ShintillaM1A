@@ -186,8 +186,8 @@ Questo progetto è distribuito sotto licenza **MIT**. Consulta il file `LICENSE`
 
 **ShintillaM1A** è un progetto ambizioso che mira a spingere i confini dell'intelligenza artificiale e della simulazione cognitiva. Se hai domande o suggerimenti, contattaci o partecipa alla comunità di sviluppatori!
 
-**Ultimo aggiornamento**: [Inserisci data]  
-**Versione**: [Inserisci versione]
+**Ultimo aggiornamento**:  
+**Versione**: 
 
 
 
